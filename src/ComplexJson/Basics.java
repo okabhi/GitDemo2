@@ -57,26 +57,12 @@ public class Basics {
 	Assert.assertEquals(actualAddress, "Pacific ocean");
 	//Cucumber Junit, Testng
 	
+	System.out.println("github1");
+	System.out.println("github 2");
+	System.out.println("git hub 3");
+	System.out.println("git hub 4");
 	
 	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
